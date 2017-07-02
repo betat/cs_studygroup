@@ -14,7 +14,7 @@
 * PLINQ, LINQ
 * Concurrent Collection
 
-## 第1回のまとめ 今回得られた成果
+## 第2回のまとめ 今回得られた成果
 
 * Listing1-1のコード例より
     * 2つのThreadが同時に動くとき、それぞれのThreadが交互に動くかは保証できない。
